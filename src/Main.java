@@ -7,7 +7,7 @@ public class Main {
                 "Tiene como nombre °Escribe un programa que muestre tu nombre en pantalla°!");
         System.out.println("Soy estudiente de la tecnologia en desarrollo de software");
         System.out.println("Vivo en el municipio de bello-antioquia");
-        System.out.printf("Mi telefono es:3046142497\n");
+        System.out.printf("Mi telefono es:3046142497NOOOOO\n");
     }
 }
 
